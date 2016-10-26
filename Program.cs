@@ -40,7 +40,7 @@ namespace Test.Tomn
             string fullResponse = responseReader.ReadToEnd();
             webResponse.Close();
             //Response.Write(fullResponse);fghfghfgh
-
+            //rtyrtyrty
             //var data = new PowerCallForEdit
             //{
             //    Id = Guid.NewGuid(),
