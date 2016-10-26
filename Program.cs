@@ -87,6 +87,8 @@ namespace Test.Tomn
         public Contact()
         {
             Adress = new Adress();
+
+            //234234
         }
 
         public string Name { get; set; }
