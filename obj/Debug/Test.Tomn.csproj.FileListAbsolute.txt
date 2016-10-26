@@ -1,0 +1,11 @@
+c:\users\y.zhdanovich\documents\visual studio 2015\Projects\Test.Tomn\Test.Tomn\bin\Debug\Test.Tomn.exe.config
+c:\users\y.zhdanovich\documents\visual studio 2015\Projects\Test.Tomn\Test.Tomn\bin\Debug\Test.Tomn.exe
+c:\users\y.zhdanovich\documents\visual studio 2015\Projects\Test.Tomn\Test.Tomn\bin\Debug\Test.Tomn.pdb
+c:\users\y.zhdanovich\documents\visual studio 2015\Projects\Test.Tomn\Test.Tomn\obj\Debug\Test.Tomn.csprojResolveAssemblyReference.cache
+c:\users\y.zhdanovich\documents\visual studio 2015\Projects\Test.Tomn\Test.Tomn\obj\Debug\Test.Tomn.exe
+c:\users\y.zhdanovich\documents\visual studio 2015\Projects\Test.Tomn\Test.Tomn\obj\Debug\Test.Tomn.pdb
+C:\Users\y.zhdanovich\Documents\Visual Studio 2015\Projects\Test.Tomn\Test.Tomn\bin\Debug\RestSharp.dll
+C:\Users\y.zhdanovich\Documents\Visual Studio 2015\Projects\Test.Tomn\Test.Tomn\bin\Debug\Twilio.Api.dll
+C:\Users\y.zhdanovich\Documents\Visual Studio 2015\Projects\Test.Tomn\Test.Tomn\bin\Debug\RestSharp.xml
+C:\Users\y.zhdanovich\Documents\Visual Studio 2015\Projects\Test.Tomn\Test.Tomn\bin\Debug\Twilio.Api.pdb
+C:\Users\y.zhdanovich\Documents\Visual Studio 2015\Projects\Test.Tomn\Test.Tomn\bin\Debug\Twilio.Api.xml
