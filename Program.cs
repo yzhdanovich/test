@@ -39,8 +39,8 @@ namespace Test.Tomn
             StreamReader responseReader = new StreamReader(webResponse.GetResponseStream());
             string fullResponse = responseReader.ReadToEnd();
             webResponse.Close();
-            //Response.Write(fullResponse);
-
+            //Response.Write(fullResponse);fghfghfgh
+            //rtyrtyrty
             //var data = new PowerCallForEdit
             //{
             //    Id = Guid.NewGuid(),
