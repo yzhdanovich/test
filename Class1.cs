@@ -9,5 +9,6 @@ namespace Test.Tomn
     internal class Class1
     {
         //12345-master
+        // featere here
     }
 }
