@@ -17,7 +17,7 @@ namespace Test.Tomn
             var objC = new Contact { Name = "13234" }; objC.Adress.Name = "777";
 
             UpdateObjectValue(objC, "Adress.Name", "5555");
-
+            //123
 
             FileStream fs = new FileStream("c:\\temp\\people.doc", FileMode.Open, FileAccess.Read);
             byte[] data = new byte[fs.Length];
